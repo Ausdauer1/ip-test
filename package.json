@@ -1,0 +1,23 @@
+{
+  "name": "ip-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ausdauer1/ip-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ausdauer1/ip-test/issues"
+  },
+  "homepage": "https://github.com/Ausdauer1/ip-test#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "request-ip": "^2.2.0"
+  }
+}
